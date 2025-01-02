@@ -1,0 +1,1 @@
+//Nếu không định nghĩa kiểu dữ liệu nó sẽ tự tiên đoán

@@ -3,8 +3,10 @@
 // const sum = (x1,x2) => {
 //     return x1+x2 
 // }
-// //Có 3 loại datatype number , boolean và string 
-// //có thể dùng typeof() để xem 
+console.log("Có 2 loại kiểu dữ liều là  ( Dữ liệu nguyên thủy và dữ liệu tham chiếu")
+console.log( "number , boolean và string, null, undefined ")
+console.log("Dữ liệu tham chiếu : Objects , Array , List ....")
+// có thể dùng typeof() để xem 
 
 // console.log("Check sum1",  sum(3,4))
 
